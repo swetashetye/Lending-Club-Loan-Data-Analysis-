@@ -5,6 +5,8 @@ Lending Club (LC) is the world’s largest online marketplace connecting borrowe
 We are expected to play with the data provided by LC, conduct a set of exploratory analysis and try to apply various machine learning techniques to predict whether or not a loan will be default using the historical data.
 
 ## DATA
+
+[GitHub](http://github.com)
 There are 14 data attributes in total, however, not all of them can contribute to data analysis or can be used as features for machine learning techniques.
 
 A quick look at what the columns in the dataset represent:
