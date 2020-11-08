@@ -24,3 +24,10 @@ A quick look at what the columns in the dataset represent:
 8. days.with.cr.line: The number of days the borrower has had a credit line.
 
 9. revol.bal: The borrower's revolving balance (amount unpaid at the end of the credit card billing cycle).
+
+## STEP-BY-STEP PROBLEM SOLVING APPROACH
+•	Import and clean data
+•	Exploratory data analysis
+•	Data preprocessing
+•	Develop machine learning model
+•	Conclusion 
