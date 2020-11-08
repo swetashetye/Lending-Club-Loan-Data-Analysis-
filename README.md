@@ -1,9 +1,11 @@
-# Lending-Club-Loan-Data-Analysis-
- We are expected to play with the data provided by LC, conduct a set of exploratory analysis and try to apply various machine learning techniques to predict whether or not a loan will be default using the historical data.
+# Lending Club Loan Data Analysis
+Lending Club (LC) is the world’s largest online marketplace connecting borrowers and investors. It is transforming the banking system to make credit more affordable and investing more rewarding. Lending Club operates at a lower cost than traditional bank lending programs and pass the savings on to borrowers in the form of lower rates and to investors in the form of solid risk-adjusted returns.
 
-## Problem Statement:
+## OBJECTIVE
+We are expected to play with the data provided by LC, conduct a set of exploratory analysis and try to apply various machine learning techniques to predict whether or not a loan will be default using the historical data.
 
-For companies like Lending Club correctly predicting whether or not a loan will be a default is very important. In this project, using the historical data from 2007 to 2015, you have to build a deep learning model to predict the chance of default for future loans. As you will see later this dataset is highly imbalanced and includes a lot of features that make this problem more challenging.
+## DATA
+There are 14 data attributes in total, however, not all of them can contribute to data analysis or can be used as features for machine learning techniques.
 
 A quick look at what the columns in the dataset represent:
 
@@ -26,8 +28,10 @@ A quick look at what the columns in the dataset represent:
 9. revol.bal: The borrower's revolving balance (amount unpaid at the end of the credit card billing cycle).
 
 ## STEP-BY-STEP PROBLEM SOLVING APPROACH
-•	Import and clean data
-•	Exploratory data analysis
-•	Data preprocessing
-•	Develop machine learning model
-•	Conclusion 
+1. Import and clean data
+2. Exploratory data analysis
+3.	Data preprocessing
+4.	Develop machine learning model
+5.	Conclusion 
+
+As you will see  this dataset is highly imbalanced and includes a lot of features that make this problem more challenging.
